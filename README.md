@@ -1,2 +1,2 @@
-# spark_nlp_thomas-A.-2020-
+# py_nlp_McMahan-2019-
 code book for thomas, A., NLP with sparkNLP
